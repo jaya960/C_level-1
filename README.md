@@ -11,3 +11,7 @@ This contains Level 1 problems of C Programming
 9. Get a three-digit number from user and print the hundred’s digit.
 10. Get a three-digit number from user and print the ten’s digit.
 11. Get a two-digit number from user and print sum the digits.
+12. Get a three-digit number from user and print sum the digits.
+13. Get a two-digit number from user and print the reverse of the number.
+14. Get a three-digit number from user and print the reverse of the number.
+15. Get a four-digit number from user and only reverse the first two digits of the number, then print the number.
