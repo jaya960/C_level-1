@@ -5,4 +5,9 @@ This contains Level 1 problems of C Programming
 3. Get a number from user and multiply 3 to that number and print the result.
 4. Get a number from user and divide by the number by 6 and print the quotient.
 5. Get a number from user and divide by the number by 8 and print the remainder.
-6. 
+6. Get a two-digit number from user and print the one’s digit.
+7. Get a two-digit number from user and print the ten’s digit.
+8. Get a three-digit number from user and print the one’s digit.
+9. Get a three-digit number from user and print the hundred’s digit.
+10. Get a three-digit number from user and print the ten’s digit.
+11. Get a two-digit number from user and print sum the digits.
